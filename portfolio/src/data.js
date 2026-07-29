@@ -7,13 +7,13 @@
 // ─────────────────────────────────────────────────────────
 
 export const profile = {
-  name: "Alex Rivera",
-  initials: "AR",
-  title: "Full-Stack Developer",
-  tagline: "I build fast, accessible web apps — from the database to the pixels.",
-  location: "Denver, CO",
+  name: "Melekte Ermias",
+  initials: "ME",
+  title: "Cybersecurity Engineer | Full Stack Developer",
+  tagline: "I build fast, accessible web apps from the database to the pixels.",
+  location: "Addis,Ethiopia",
   resumeUrl: "#",
-  avatarInitial: "A",
+  avatarInitial: "Meeseeks",
 }
 
 export const navLinks = [
@@ -26,15 +26,12 @@ export const navLinks = [
 export const about = {
   heading: "cat about.md",
   paragraphs: [
-    "I'm a self-taught developer turned bootcamp grad, currently based in Denver. Before code, I spent four years managing logistics for a touring theatre company — which is where I picked up a low tolerance for things breaking mid-show and a high tolerance for solving problems at 2am.",
-    "These days I build with React on the front end and Node on the back, with a growing interest in developer tooling and performance. I care about interfaces that feel instant and code that the next person can actually read.",
-    "Outside of the editor, I'm usually climbing, restoring an old mechanical keyboard, or arguing that tabs are correct.",
-  ],
+    "I'm a self-taught developer turned bootcamp grad, currently based in AA. Bla Bla Bla... We will add the villain backstory here."],
   facts: [
-    { label: "based in", value: "Denver, CO" },
+    { label: "based in", value: "AA, 10" },
     { label: "focus", value: "React · Node · Postgres" },
     { label: "open to", value: "junior / associate roles" },
-    { label: "status", value: "actively looking" },
+    { label: "status", value: "Currently in Service..." },
   ],
 }
 
@@ -42,15 +39,15 @@ export const skills = [
   { id: "sk-01", name: "JavaScript (ES6+)", category: "language", level: 4 },
   { id: "sk-02", name: "React", category: "frontend", level: 4 },
   { id: "sk-03", name: "HTML & CSS", category: "frontend", level: 5 },
-  { id: "sk-04", name: "Node.js", category: "backend", level: 3 },
-  { id: "sk-05", name: "Express", category: "backend", level: 3 },
-  { id: "sk-06", name: "PostgreSQL", category: "database", level: 3 },
-  { id: "sk-07", name: "MongoDB", category: "database", level: 2 },
+  { id: "sk-04", name: "Node.js", category: "backend", level: 4 },
+  { id: "sk-05", name: "Express", category: "backend", level: 2 },
+  { id: "sk-06", name: "PostgreSQL", category: "database", level: 2 },
+  { id: "sk-07", name: "MongoDB", category: "database", level: 1 },
   { id: "sk-08", name: "Git & GitHub", category: "tooling", level: 4 },
   { id: "sk-09", name: "REST APIs", category: "backend", level: 4 },
-  { id: "sk-10", name: "Figma", category: "design", level: 2 },
+  { id: "sk-10", name: "Figma", category: "design", level: 4 },
   { id: "sk-11", name: "Vite", category: "tooling", level: 3 },
-  { id: "sk-12", name: "Responsive Design", category: "frontend", level: 4 },
+  { id: "sk-12", name: "Responsive Design", category: "frontend", level: 3},
 ]
 
 export const projects = [
@@ -103,12 +100,12 @@ export const projects = [
 export const contact = {
   heading: "$ contact --send",
   blurb:
-    "I'm currently looking for my first developer role. If you have an opening, a project, or just want to talk shop, my inbox is open.",
-  email: "alex.rivera.dev@example.com",
+    "I'm currently in a role though If you have an opening, a project, or just want to talk shop, my inbox is open.",
+  email: "melestically@gmail.com",
   socials: [
-    { label: "GitHub", href: "https://github.com/example", handle: "@alexrivera" },
-    { label: "LinkedIn", href: "https://linkedin.com/in/example", handle: "/in/alexrivera" },
-    { label: "Twitter / X", href: "https://twitter.com/example", handle: "@alexrivera_dev" },
+    { label: "GitHub", href: "https://github.com/arthemisz", handle: "@arthemisz" },
+    { label: "LinkedIn", href: "https://linkedin.com/in/Melekte-ermias", handle: "/in/Melekte-ermias" },
+    { label: "Twitter / X", href: "https://twitter.com/arthemisz", handle: "@arthemisz" },
   ],
 }
 

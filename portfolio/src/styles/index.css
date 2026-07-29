@@ -1,6 +1,6 @@
 @import './variables.css';
 
-/* ── Reset ───────────────────────────────────────────── */
+/* Reset */
 *,
 *::before,
 *::after {
@@ -64,7 +64,7 @@ button:focus-visible {
   border-radius: 4px;
 }
 
-/* ── Shared layout ───────────────────────────────────── */
+/* Shared layout ;)*/
 .section__inner {
   max-width: var(--max-width);
   margin: 0 auto;
@@ -120,7 +120,7 @@ button:focus-visible {
   transform: translateY(-2px);
 }
 
-/* ── Navbar ──────────────────────────────────────────── */
+/*Navbar section :)*/
 .navbar {
   position: sticky;
   top: 0;
