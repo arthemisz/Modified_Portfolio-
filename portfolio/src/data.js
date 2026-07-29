@@ -59,18 +59,18 @@ export const projects = [
       "A hiking-trail discovery app with saved routes, elevation charts, and offline-ready trail notes for areas with no signal.",
     tech: ["React", "Node", "Express", "PostgreSQL"],
     githubUrl: "https://github.com/example/trailhead",
-    liveUrl: "https://trailhead.example.com",
+    liveUrl: "not available yet",
     image: "trailhead",
   },
   {
     id: "pj-02",
     title: "Stagehand",
-    status: "shipped",
+    status: "in progress",
     description:
       "A crew-scheduling tool for touring productions — built after one too many spreadsheets fell apart mid-tour. Handles conflicts, call times, and venue notes.",
     tech: ["React", "Firebase", "Tailwind"],
     githubUrl: "https://github.com/example/stagehand",
-    liveUrl: "https://stagehand.example.com",
+    liveUrl: "not available yet",
     image: "stagehand",
   },
   {
@@ -81,18 +81,18 @@ export const projects = [
       "A small collection tracker for mechanical keyboard parts — switches, keycap sets, and build notes, with a searchable inventory.",
     tech: ["React", "Vite", "MongoDB"],
     githubUrl: "https://github.com/example/keycap-log",
-    liveUrl: "",
+    liveUrl: "not available yet",
     image: "keycap",
   },
   {
     id: "pj-04",
     title: "Split the Bill",
-    status: "shipped",
+    status: "in progress",
     description:
       "A no-signup group expense splitter for trips and shared households. Generates a shareable link instead of requiring an account.",
     tech: ["JavaScript", "Express", "SQLite"],
     githubUrl: "https://github.com/example/split-the-bill",
-    liveUrl: "https://splitbill.example.com",
+    liveUrl: "not available yet",
     image: "split",
   },
 ]

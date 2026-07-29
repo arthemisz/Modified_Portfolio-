@@ -6,6 +6,7 @@
 *::after {
   box-sizing: border-box;
 }
+/* ── Scar on Code Window ──────────────────────────────── */
 
 html {
   scroll-behavior: smooth;
@@ -627,8 +628,5 @@ button:focus-visible {
     padding-bottom: 4rem;
   }
 
-  .hero__actions {
-    flex-direction: column;
-    align-items: flex-start;
-  }
+ 
 }

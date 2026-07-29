@@ -1,3 +1,6 @@
+// Hero.jsx
+import React from 'react'
+
 function Hero({ profile }) {
   return (
     <section id="top" className="hero">
